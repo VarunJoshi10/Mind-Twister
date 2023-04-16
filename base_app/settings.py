@@ -150,6 +150,8 @@ SOCIALACCOUNT_PROVIDERS = {
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
 
+ACCOUNT_DEFAULT_HTTP_PROTOCOL='https'
+
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'Asia/Kolkata'
